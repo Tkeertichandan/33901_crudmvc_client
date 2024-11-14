@@ -27,7 +27,7 @@ function App() {
         </main>
 
         <footer className="footer">
-          &copy; 2024 - All rights reserved | Developed  by Laxman
+          &copy; 2024 - All rights reserved | Developed  by Basudev
         </footer>
       </div>
     </Router>
